@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #8f8c8c; /* Soft white */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+font-family: Poppins,sans-serif;
+
+}
+#bgVideo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+/* Navbar */
+.navbar {
+    background-color:rgb(0, 0, 0);
+    color: white;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar h1 {
+    font-size: 24px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 20px;
+}
+footer i,a{
+text-decoration: none;
+color: aliceblue;
+}
+.navbar a:hover {
+    border: 1px solid greenyellow;
+}
+
+/* Card Container */
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 40px 20px;
+    gap: 20px;
+    flex-grow: 1;
+}
+#m
+{
+    font-family: monospace;}
+.card {
+    background-color:#0a0f1f;
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 20px 5px 5px rgba(0,0,0,0.1);
+    display: flex;
+    color: #b8abab;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid navy;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  
+}
+.card-container a{
+    text-decoration: none;
+}
+.card:hover{
+    transform: scale(0.9);
+}
+/* Footer */
+.footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
