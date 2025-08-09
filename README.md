@@ -1,34 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [muttapuffs.com] 🎯
+# muttapuffs.com🎯
 
 
 ## Basic Details
-### Team Name: [MuttaPuffs]
+### Team Name: MuttaPuffs
 
 
 ### Team Members
-- Team Lead: [Abel Mathew] - [GEC IDUKKI]
-- Member 2: [Sreehari M S] - [GEC IDUKKI]
-- Member 3: [Name] - [College]
+- Team Lead: Abel Mathew- GECI
+- Member 1: Abel Mathew - GECI
+- Member 2: [Sreehari M S] - GECI
 
 ### Project Description
-[muttapuffs.com is a simple,funny romatic website]
+muttapuffs.com for stress relife ,overthinking,motivation
 
 ### The Problem (that doesn't exist)
-[stress realing+ overthinkig+enjoyment also informative]
+stress,overthinking,study materiels
 
 ### The Solution (that nobody asked for)
-[creating some websites that generate memes,life-predictor]
+[releases stress ,entertainment, resource utiliazation
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML]
-- [HTML , CSS]
-- [JAVASCRIPT]
-- [GPT , YouTube ,VSCode]
+- HTML,JAVASCRIPT,CSS
+- HTML
+- JAVASCIPT
+- chatGPT
 
 For Hardware:
 - [List main components]
@@ -38,27 +38,25 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[GitHub]
+[commands]
 
 # Run
 [git init
-git add .
-git commit -m "aaa"
-git remote add <repo-link>
-git push -u origin master/main]
+git add.
+git push -m origin]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![main page of the muttapuffs.com](usless_project_temp/s1.png)
+![Screenshot1](s1.jpg)
 *Add caption explaining what this shows*
 
-![learing resources](usless_project_temp/s2.png)
-*the web page direct the user into study materiels and resources*
+![Screenshot2](s2.jpg)
+*Add caption explaining what this shows*
 
-![love-confession page ](usless_project_temp/s3.png)
-*Sorry im Delusional*
+![Screenshot3](s3.jpg)
+*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
